@@ -18,9 +18,8 @@ HW/SW Co-Design is an **engineering approach** where hardware and software compo
 **Description:** A custom IP that processes an image by inverting pixel values. Data is transferred using **AXI DMA**, and a ZYNQ processor handles communication.  
 - **Hardware:** Custom IP, AXI DMA, SmartConnect.  
 - **Software:** C code for UART communication and DMA configuration.  
-
-### **2. [Next HW/SW Project]**  
-(Include a brief description of another project here)  
+![Implementation Image](https://github.com/MohamedHussein27/HW-SW-Co-designs/blob/main/Image%20Inverter%20IP/Images/Diagram.png)  
+ 
 
 ---
 
